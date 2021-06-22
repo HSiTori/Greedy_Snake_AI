@@ -2,7 +2,7 @@
 A simple greedy snake AI and its advanced versions.
 
 ## How to use our project:
-1. Download play.py and settings.py.
+1. Download play.py, settings.py, and math_draw.py.
 2. Choose the snake AI version you prefer (snake_bfs, snake_final, snake_github, snake_ideal, or snake_s).
 3. According to your version, comment or uncomment the code in play.py in line .
 4. run the play.py in your python3 environment (we recommend you to use pycharm as your IDE).
