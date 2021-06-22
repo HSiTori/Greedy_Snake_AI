@@ -2,7 +2,10 @@
 A simple greedy snake AI and its advanced versions.
 
 ## Special Thanks:
-The project is finished together with our lovely teammate
+The project is finished together with our lovely teammates
+* a
+* b
+* c
 
 ## How to use our project:
 1. Download play.py, settings.py, and math_draw.py.
