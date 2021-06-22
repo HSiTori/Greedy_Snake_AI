@@ -2,7 +2,7 @@
 A simple greedy snake AI and its advanced versions.
 
 ## How to use our project:
-1. a
+1. download play.py and settings.py
 2. b
 3. c
 4. d
