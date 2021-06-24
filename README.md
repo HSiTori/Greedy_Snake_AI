@@ -3,9 +3,9 @@ A simple greedy snake AI and its advanced versions.
 
 ## Special Thanks:
 The project is finished with my lovely teammates together.
-* a
-* b
-* c
+* [HsuLE](https://github.com/HsuLE)
+* [pocky102](https://github.com/pocky102)
+* [loching0501](https://github.com/loching0501)
 
 ## How to run our project:
 1. Download play.py, settings.py, and math_draw.py.
